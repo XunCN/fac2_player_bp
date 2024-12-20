@@ -1,0 +1,11 @@
+{
+    "name": "media_dev",
+    "version": "0.0.2",
+    "title": "Media Dev",
+    "author": "Xun",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "This mod change lamp, speaker and combinators to enery-free entities. And extend the wire connecting length for them."
+}
