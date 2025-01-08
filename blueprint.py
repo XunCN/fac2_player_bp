@@ -1,7 +1,5 @@
 import cv2
 import json
-import os
-import shutil
 import base64
 import zlib
 import copy
